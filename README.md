@@ -13,5 +13,5 @@ This is the initial data cleaning process of my data set. It generated the BlueB
 #### Model building.ipynb
 This notebook contains the model building process for my predictions. Models include Poisson, Negative Binomial, and Logistic Regression as well as Random Forests.
 
-# Ruffin_J_Final_Capstone_Poster
+#### Ruffin_J_Final_Capstone_Poster
 Final poster for presentation
