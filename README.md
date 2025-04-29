@@ -10,7 +10,7 @@ This is the final, cleaned data set that I used to build my models and complete 
 #### cleaning part1.r File
 This is the initial data cleaning process of my data set. It generated the BlueBike_csv dataset that was too big to place in this repository. 
 
-#### Model building.ipynb
+#### Model building FINAL.ipynb
 This notebook contains the model building process for my predictions.
 
 #### Ruffin_J_Final_Capstone_Poster
