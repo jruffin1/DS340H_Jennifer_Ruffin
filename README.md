@@ -11,7 +11,7 @@ This is the final, cleaned data set that I used to build my models and complete 
 This is the initial data cleaning process of my data set. It generated the BlueBike_csv dataset that was too big to place in this repository. 
 
 #### Model building.ipynb
-This notebook contains the model building process for my predictions. Models include Poisson, Negative Binomial, and Logistic Regression as well as Random Forests.
+This notebook contains the model building process for my predictions.
 
 #### Ruffin_J_Final_Capstone_Poster
 Final poster for presentation
